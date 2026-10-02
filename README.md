@@ -53,3 +53,9 @@ Ejecuta el punto de entrada inicial con:
 ```sh
 python app/main.py
 ```
+
+## Próximas mejoras
+
+- Permitir agregar, editar y eliminar recursos desde una interfaz.
+- Incorporar búsqueda y filtros por tipo, tema, nivel y autor o fuente.
+- Validar los datos antes de guardar cambios en el catálogo.
