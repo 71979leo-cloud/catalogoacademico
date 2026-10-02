@@ -13,4 +13,4 @@ Para facilitar la busqueda, cada registro tambien debe incluir un titulo y puede
 
  Nivel académico: Permite clasificar los recursos según el nivel educativo al que están dirigidos, como bachillerato, licenciatura o posgrado.
 
- Área de conocimiento: Organiza los recursos según su temática, como matemáticas, programación, ciencias, tecnología o humanidades.
+ Área de conocimiento: Organiza los recursos según su temática, como matemáticas, programación, ciencias, tecnología o humanidades. ejdcs
