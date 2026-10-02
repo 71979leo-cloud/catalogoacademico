@@ -22,4 +22,4 @@ intermedio o avanzado, según el nivel académico del lector.
 
 8. Licencia o derechos de uso: Indica si el material puede ser 
 consultado, compartido o reutilizado libremente, o si tiene restricciones 
-de uso.
+de uso para su facil uso.

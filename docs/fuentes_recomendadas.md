@@ -34,4 +34,4 @@ A continuación se presentan varias fuentes y plataformas que pueden servir como
    - Directory of Open Access Journals.
    - Directorio de revistas de acceso abierto con contenido académico de diversas disciplinas.
 
-Estas fuentes complementan la búsqueda de recursos y pueden ayudar a validar la calidad, el alcance y la relevancia de los materiales incluidos en el catálogo.
+Estas fuentes complementan la búsqueda de recursos y pueden ayudar a validar la calidad, el alcance y la relevancia de los materiales incluidos en el catálogo y buscar su mejora.
