@@ -1,0 +1,19 @@
+		[
+			{
+				"titulo": "Algebra: temas y ejercicios",
+				"tipo": "libro de texto",
+				"tema": "Algebra",
+				"nivel": "Basico",
+				"autor_o_fuente": "OpenStax",
+				"url": "https://openstax.org/subjects/math"
+			},
+			{
+				"titulo": "Biologia",
+				"tipo": "libro de texto",
+				"tema": "Biologia",
+				"nivel": "Intermedio",
+				"autor_o_fuente": "OpenStax",
+				"url": "https://openstax.org/subjects/science"
+			}
+		]
+        
