@@ -16,3 +16,10 @@ relacionados con su contenido.
 
 6. Disponibilidad: Indica si el recurso es gratuito, de pago o 
 requiere algún tipo de acceso.
+
+7. Nivel de dificultad: Permite identificar si el recurso es básico, 
+intermedio o avanzado, según el nivel académico del lector.
+
+8. Licencia o derechos de uso: Indica si el material puede ser 
+consultado, compartido o reutilizado libremente, o si tiene restricciones 
+de uso.
