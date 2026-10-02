@@ -18,3 +18,7 @@ Se agregó el archivo docs/fuentes_recomendadas.md con cinco plataformas de cons
 Se incorporaron dos nuevos criterios de clasificación en docs/criterios.md.
 
 Se actualizó la documentación del proyecto para mejorar la organización y clasificación de los recursos académicos.
+
+Actualización de archivo de mi compañero
+
+Se incorporó documentación adicional al proyecto de Catálogo Académico mediante la creación de un archivo con cinco fuentes de información confiables. Además, se añadieron dos nuevos criterios para organizar y clasificar los recursos académicos. Por último, se actualizó el historial de cambios para dejar constancia de las modificaciones realizadas.
