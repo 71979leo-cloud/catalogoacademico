@@ -63,3 +63,18 @@ cualquier integrante pueda instalar las mismas dependencias sin
 necesidad de compartir la carpeta `.venv`.
 
 Conforme avance el desarrollo del **Catálogo de recursos académicos**, se agregarán a este archivo las librerías que sean necesarias.
+
+# Próximas mejoras
+Mejoras propuestas
+1. Búsqueda avanzada: permitir búsquedas por título, autor y palabras clave.
+2. Filtros: clasificar los recursos por materia, fecha de publicación, formato e idioma.
+3. Registro de recursos: permitir agregar, modificar y eliminar materiales académicos.
+4. Interfaz: desarrollar una interfaz más atractiva, sencilla y fácil de utilizar.
+5. Favoritos: permitir guardar los recursos académicos más utilizados.
+6. Validación de datos: evitar registros incompletos o duplicados.
+7. Exportación: permitir descargar el catálogo en diferentes formatos, como CSV.
+8. Corrección de errores: realizar pruebas para mejorar el funcionamiento del sistema.
+Prioridades
+- Corto plazo: implementar búsquedas, filtros y validación de datos.
+- Mediano plazo: mejorar la interfaz y la administración de recursos.
+- Largo plazo: incorporar favoritos, exportación de archivos y nuevas funcionalidades.
