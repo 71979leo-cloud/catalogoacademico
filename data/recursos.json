@@ -14,6 +14,14 @@
 				"nivel": "Intermedio",
 				"autor_o_fuente": "OpenStax",
 				"url": "https://openstax.org/subjects/science"
+			},
+			{
+				"titulo": "Tutorial de Python",
+				"tipo": "documentacion",
+				"tema": "Programacion",
+				"nivel": "Basico",
+				"autor_o_fuente": "Python Software Foundation",
+				"url": "https://docs.python.org/es/3/tutorial/"
 			}
 		]
         
